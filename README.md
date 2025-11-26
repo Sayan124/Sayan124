@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:3282b8,100:bbe1fa&height=220&section=header&text=Sayan%20Nandi&fontSize=50&fontAlignY=40&desc=Elite%20Developer%20Profile&descSize=20&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:3282b8,100:bbe1fa&height=220&section=header&text=Sayan%20Nandi&fontSize=50&fontAlignY=40&desc=%20Developer%20Profile&descSize=20&descAlignY=60"/>
 </p>
 
 <h1 align="center">🚀 Sayan Nandi — Developer in the Making</h1>
 <h3 align="center">Systems • Code • Creation</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Sayan Nandi" width="180" style="border-radius:50%;border:2px solid #3282b8;" />
+  <img src="https://avatars.githubusercontent.com/u/91769558?v=4" alt="Sayan Nandi" width="180" style="border-radius:50px;border:2px solid #3282b8;" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Core Arsenal)
+## 🛠️ Tech Stack
 
 ### 🔹 Languages
 
@@ -45,6 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="nodejs" />
 
 </p>
 
@@ -57,13 +58,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
 </p>
 
-### 🔹 Quick View (Badges)
+### 🔹 Quick View
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JS](https://img.shields.io/badge/Javascript-1572B6?style=for-the-badge\&logo=javascript\&logoColor=white)
 
 ---
 
@@ -86,7 +88,7 @@
 
 ---
 
-## 📊 Live GitHub Analytics (Command Center)
+## 📊 Live GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayan124\&show_icons=true\&theme=tokyonight)
 
@@ -100,7 +102,7 @@
 
 ---
 
-## 🧩 Flagship Projects (Roadmap)
+## 🧩 Flagship Projects
 
 * 🖥️ Linux Terminal Guide (From Zero to Power User)
 * 🔧 Python Automation Vault
@@ -112,7 +114,7 @@
 
 ---
 
-## 🚀 Featured Projects (Showcase)
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -191,14 +193,8 @@
 
 <p align="center">
 <a href="https://github.com/Sayan124"><img src="https://img.shields.io/badge/GitHub-Sayan124-black?style=for-the-badge&logo=github"></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:sayannandi623@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Sayan124/Sayan124/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
